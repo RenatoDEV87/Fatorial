@@ -1,6 +1,6 @@
 # Crie um programa que calcula o fatorial de um número fornecido pelo usuário utilizando um loop for ou while.
 
-Exercício 14: Cálculo do Fatorial
+# Exercício 14: Cálculo do Fatorial
 
 ---
 
